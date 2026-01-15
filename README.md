@@ -20,11 +20,3 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek di komputer lokal Anda:
 ```bash
 git clone [https://github.com/riskyyiman/photoboth.git](https://github.com/riskyyiman/photoboth.git)
 cd photoboth
-
-📂 Struktur Proyek
-photoboth/
-├── public/          # Aset statis (gambar, favicon)
-├── src/             # Kode sumber utama aplikasi
-├── next.config.ts   # Konfigurasi Next.js
-├── package.json     # Daftar dependensi & skrip
-└── README.md        # Dokumentasi proyek
